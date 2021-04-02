@@ -23,6 +23,5 @@ Modelo 3D utilizado: [Metropolis by ibudmen - Thingiverse](https://www.thingiver
 
 ## :house_with_garden::hotel: :department_store: :convenience_store:  :post_office: :house:  
 
-![metropolis](https://i.pinimg.com/originals/38/97/91/3897911a31949844c118c6ed5862d863.gif)
+![metropolis2](https://user-images.githubusercontent.com/4651221/113455396-dd519200-93e0-11eb-94bf-e3845ef6453c.gif)
 
-![metropolis](https://i.pinimg.com/originals/d8/99/43/d8994327d1335c6c21bfbff98d017e0c.gif)

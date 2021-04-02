@@ -6,7 +6,7 @@
 
 STL é um formato de arquivo para impressão 3D. Esse formato aproxima as superfícies de um modelo sólido com triângulos e mantém as informações referentes a geometria da superfície do objeto 3D (gerados diretamente no programa de modelagem computacional CAD).
 
-Modelo utilizado: [Metropolis by ibudmen - Thingiverse](https://www.thingiverse.com/thing:47622)
+Modelo 3D utilizado: [Metropolis by ibudmen - Thingiverse](https://www.thingiverse.com/thing:47622)
 
  
 
